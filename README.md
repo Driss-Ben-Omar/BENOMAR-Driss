@@ -32,3 +32,10 @@ Internship at Luceom: Development of a web application for business management:
   <li>Respect the requirements</li>
   <li>Tools: PHP, MySQL, Bootstrap, Slack, GitHub, Meet, Scrum.</li>
 </ul>
+<ul>
+Web application for patient management:
+  <li>Authentication and Authorization (Spring Security)</li>
+  <li>Implementation and testing of service requirements</li>
+  <li>Creation of interfaces</li>
+  <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
+</ul>
