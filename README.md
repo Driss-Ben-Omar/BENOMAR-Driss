@@ -61,5 +61,16 @@
       <li>Tools: Spring Boot, Spring MVC, Spring Data, UML, MySQL</li>
     </ul>
   </li>
+  <li>
+    End-of-Studies Project (Bachelor's): Creation of a Web Commerce Application :
+    <ul>
+      <li>Database design</li>
+      <li>Implementation of Authentication and Authorization</li>
+      <li>Implementation of necessary functions (Backend)</li>
+      <li>Respect the architecture of project</li>
+      <li>Development the Front-end</li>
+      <li>Tools: JAVA EE (Servlet, JSP, JSTL, JDBC, Beans), MySQL, Bootstrap, UML</li>
+    </ul>
+  </li>
 </ol>
 
