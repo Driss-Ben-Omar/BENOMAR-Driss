@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BENOMAR Driss</h1>
 <h3 align="center">Master's Student in Computer Engineering | Seeking an internship opportunity (End-of-Studies)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=driss-ben-omar&label=Profile%20views&color=0e75b6&style=flat" alt="driss-ben-omar" /> </p>
+<p align="left"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" /> </p>
 
 - 🔭 I’m currently working on [Tournement-Management](https://github.com/Driss-Ben-Omar/Gestion-Tournoi)
 
