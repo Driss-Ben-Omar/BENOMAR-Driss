@@ -72,5 +72,14 @@
       <li>Tools: JAVA EE (Servlet, JSP, JSTL, JDBC, Beans), MySQL, Bootstrap, UML</li>
     </ul>
   </li>
+  <li>
+    Academic Projects :
+    <ul>
+      <li>Person Detection and Tracking (OpenCV - Python)</li>
+      <li>Data Exploration and Analysis: Cleaning, Association Rules, Clustering, and Decision Tree (R language)</li>
+      <li>Improving Sales Performance with the ETL process</li>
+      <li>Web application for RAYBAN Sales Management (Java EE-Hibernate)</li>
+    </ul>
+  </li>
 </ol>
 
