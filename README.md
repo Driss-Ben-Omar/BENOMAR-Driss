@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Tournement-Management](https://github.com/Driss-Ben-Omar/Gestion-Tournoi)
 
-- 🌱 I’m currently learning **Spring & microservices & angular**
+- 🌱 I’m currently learning **Spring & Microservices & Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/driss-ben-omar](https://github.com/driss-ben-omar)
 
