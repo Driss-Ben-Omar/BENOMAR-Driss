@@ -53,5 +53,13 @@
       <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
     </ul>
   </li>
+  <li>
+    Digital banking application :
+    <ul>
+      <li>Implementation of functional requirements</li>
+      <li>Management of relationships between entities</li>
+      <li>Tools: Spring Boot, Spring MVC, Spring Data, UML, MySQL</li>
+    </ul>
+  </li>
 </ol>
 
