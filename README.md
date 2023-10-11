@@ -35,13 +35,14 @@
       <li>Tools: PHP, MySQL, Bootstrap, Slack, GitHub, Meet, Scrum.</li>
     </ul>
   </li>
+  <li>
+    Web application for patient management:
+    <ul>
+      <li>Authentication and Authorization (Spring Security)</li>
+      <li>Implementation and testing of service requirements</li>
+      <li>Creation of interfaces</li>
+      <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
+    </ul>
+  </li>
 </ol>
-<ol>
-Web application for patient management:
-  <ul>
-    <li>Authentication and Authorization (Spring Security)</li>
-    <li>Implementation and testing of service requirements</li>
-    <li>Creation of interfaces</li>
-    <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
-  </ul>
-</ol>
+
