@@ -25,4 +25,9 @@
 <h3 align="left">Projects:</h3>
 <ul>
 <strong>Internship at Luceom: Development of a web application for business management.</strong>
+  <li>Addition of modules</li>
+  <li>Creation of interfaces</li>
+  <li>Implementation of CRUD operations</li>
+  <li>Database management</li>
+  <li>Respect the requirements</li>
 </ul>
