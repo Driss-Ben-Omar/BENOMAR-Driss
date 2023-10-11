@@ -30,4 +30,5 @@ Internship at Luceom: Development of a web application for business management:
   <li>Implementation of CRUD operations</li>
   <li>Database management</li>
   <li>Respect the requirements</li>
+  <li>Tools: PHP, MySQL, Bootstrap, Slack, GitHub, Meet, Scrum.</li>
 </ul>
