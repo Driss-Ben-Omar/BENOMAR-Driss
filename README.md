@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name BENOMAR Driss</h1>
+<h1 align="center">Hi 👋, MY NAME BENOMAR Driss</h1>
 
 <p align="center"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" width="350" /> </p>
 
