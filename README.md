@@ -32,7 +32,7 @@
       <li>Implementation of CRUD operations</li>
       <li>Database management</li>
       <li>Respect the requirements</li>
-      <li>Tools: PHP, MySQL, Bootstrap, Slack, GitHub, Meet, Scrum.</li>
+      <li>Tools: PHP, MySQL, Bootstrap, Slack, GitHub, Meet, Scrum</li>
     </ul>
   </li>
   <li>
@@ -41,6 +41,15 @@
       <li>Authentication and Authorization (Spring Security)</li>
       <li>Implementation and testing of service requirements</li>
       <li>Creation of interfaces</li>
+      <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
+    </ul>
+  </li>
+  <li>
+    Web application for tournament management :
+    <ul>
+      <li>Authentication and Authorization (Spring Security)</li>
+      <li>Implementation and testing of service requirements and management of relationships between entities</li>
+      <li>Visualization of functionalities through graphical interfaces</li>
       <li>Tools: Spring Data, Spring MVC, Spring Security, Thymeleaf, MySQL</li>
     </ul>
   </li>
