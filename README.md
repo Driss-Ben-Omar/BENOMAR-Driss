@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BENOMAR Driss</h1>
+<h1 align="center">Hi 👋, my name BENOMAR Driss</h1>
 
 <p align="center"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" width="350" /> </p>
 
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/driss-ben-omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="driss-ben-omar" height="30" width="40" /></a>
+<a href="https://github.com/Driss-Ben-Omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="driss-ben-omar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
